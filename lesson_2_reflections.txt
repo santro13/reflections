@@ -10,10 +10,12 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-	I can add onlyl those files from working directory to staging area that together form one logical change.
+	I can add only those files from working directory to staging area that together form one logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	When one needs to try out multiple things which are not sure to go into final project, experimenting it in different branches would help.
 
 How do the diagrams help you visualize the branch structure?
 
