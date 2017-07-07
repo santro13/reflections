@@ -24,5 +24,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	all code from both branches get merged from the point they diverted. The diagram shows an easy way of understanding at point branches divereted and at what point they got merged - that is easy to figure out what changes would be part of which commit.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
